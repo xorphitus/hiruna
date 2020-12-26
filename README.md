@@ -1,5 +1,19 @@
 # hiruna
 
+Installation
+
 ```
-$ elm make src/Main.elm --output=main.js
+npm i
+```
+
+Build
+
+```
+npm run build
+```
+
+Development
+
+```
+npm start
 ```
